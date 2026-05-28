@@ -1,4 +1,3 @@
-y README
 # ai-media-organizer
 
 AI-powered media file organizer that uses a local Llama 3.2 model (via Ollama) to classify and sort movies, TV shows, and music into a clean Plex-compatible folder structure. No external APIs — runs entirely on your own hardware.
